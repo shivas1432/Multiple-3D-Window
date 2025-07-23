@@ -189,7 +189,7 @@ else
 		}
 	}
 
-// Created by shivas1432 - Multi-Window 3D Scene
+	// Created by shivas1432 - Multi-Window 3D Scene
 // https://github.com/shivas1432/Multiple-3D-Window
 
 // shivas1432's implementation of multi-window 3D synchronization
